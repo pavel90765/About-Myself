@@ -1,0 +1,54 @@
+
+
+/* Universal-designs-here */
+body{
+    background-color: black;
+}
+
+section{
+    margin:30px 20px;
+}
+
+/* Head-Here */
+header{
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+}
+.head-imgs {
+    width: 64px;
+    height: 74px;
+}
+
+
+
+
+/* First-section-here */
+
+.about-myself{
+    display: flex;
+    justify-content: space-between;
+    color:#fff;
+}
+
+.my-img{
+    width: 300px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.intro,.info{
+    width: 50%;
+    height: 50%;
+}
+
+/* Second-section-here */
+
+.about-myschools{
+    color: #fff;
+    text-align: center;
+}
+.schools{
+    display: flex;
+    justify-content: space-between;
+}
